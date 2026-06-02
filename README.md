@@ -1,4 +1,4 @@
-# portfolio-website
+# sample portfolio-website
 Code with Purpose. Create with Impact.
 # 🚀 SkillVerse - Personal Portfolio Website
 
