@@ -43,11 +43,7 @@ a{
     text-decoration: none;
 }
 
-
 /* logo styling*/
-
-
-
 
 .logo {
     display: flex;
@@ -113,10 +109,6 @@ header nav a.active{
 
 
 /* Home Section */
-
-
-
-
 
 .home{
     display: flex;
@@ -289,13 +281,7 @@ header nav a.active{
     object-fit: cover;
 } 
 
-
-
-
 /* Services Section  */
-
-
-
 
 
 .heading{
@@ -430,11 +416,7 @@ header nav a.active{
 }
 
 
-
-
 /* Resume Section */
-
-
 
 section{
     padding: 8rem 9% 5rem;
@@ -638,13 +620,7 @@ section{
     font-size: 1.8rem;
 }
 
-
-
-
 /* Projects Section */
-
-
-
 
 .project-container{
     display: grid;
@@ -749,8 +725,6 @@ section{
     overflow: hidden;
 }
 
-
-
 .project-carousel .img-slide{
     display:grid;
     grid-auto-flow:column;
@@ -803,11 +777,7 @@ section{
     margin-left: 1.5rem;
 }
 
-
-
 /* Projects Section */
-
-
 
 .contact-container{
     color: var(--white-color);
